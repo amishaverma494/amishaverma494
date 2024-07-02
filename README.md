@@ -13,3 +13,4 @@ https://github.com/amishaverma494/amishaverma494
 -->🔧Technology and tools used
 HTML,CSS, Javascript, Bootstrap,java c,c++, SQL 
 python, spring boot,git/GitHub 
+![professional skills](https://github.com/amishaverma494/amishaverma494/assets/137648331/6aadaefb-d366-4b9e-8f43-49ccc95acdc4)
