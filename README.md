@@ -7,7 +7,7 @@ https://github.com/amishaverma494/amishaverma494
 - 🌱 I’m currently learning .java using DSA ..
 - 👯 I’m looking to collaborate on open source project as a frontend developer.
 - 💬 Ask me about .. anything related to frontend development.
-- 📫 How to reach me: amishaverma494@gmail.com ...
+- 📫 How to reach me: amishaverma494@gmail.com Portfolio website...https://github.com/amishaverma494
 - 😄 Pronouns: ...she/her
 - ⚡ Fun fact: Buy me coffee ☕ 
 -->🔧Technology and tools used
