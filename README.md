@@ -1,7 +1,7 @@
 ## Hi I am Amisha Verma 👋 A computer science engineering students.
 code/ Eat/ Repeat 🔁 
 Frontend developer 💻
-check out my Profilehttps://github.com/amishaverma494
+check out my Profile https://github.com/amishaverma494
 - 🔭 I’m currently working on web development program ...
 - 🌱 I’m currently learning JavaScript using DSA ..
 - 👯 I’m looking to collaborate on open source project as a frontend developer.
