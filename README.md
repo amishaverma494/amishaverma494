@@ -1,6 +1,5 @@
 ## Hi I am Amisha Verma 👋 A computer science engineering students.
 code/ Eat/ Repeat 🔁 
-Frontend developer 💻
 check out my Profile https://github.com/amishaverma494
 - 🔭 I’m currently working as a process associate...
 - 🌱 I’m currently learning Data analyst .
